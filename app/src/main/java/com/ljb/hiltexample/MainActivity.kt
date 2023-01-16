@@ -1,4 +1,4 @@
-package com.example.hiltexample
+package com.ljb.hiltexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
